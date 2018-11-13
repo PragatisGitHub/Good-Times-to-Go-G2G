@@ -5,7 +5,13 @@
 **Xfactor**: None of the applications that are currently present in the market considers the current weather condition in recommending the type of places or activities. Our project factors in the current weather and the time of the day to recommend the places and also provides the address and the ratings that are available on google.
 
 ### PYTHON Modules used:
- a.openweathermapy.core b.pandas c.matplotlib d.numpy e.datetime f.json g.requests
+ a.openweathermapy.core 
+ b.pandas 
+ c.matplotlib 
+ d.numpy 
+ e.datetime 
+ f.json 
+ g.requests
 
 ### APIs used: 
 * Openweather wrapper and the API key.
